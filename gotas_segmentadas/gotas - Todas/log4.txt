@@ -1,0 +1,366 @@
+found blob 1 ... gravado com nome: "gotas/580.bmp"
+
+found blob 2 ... gravado com nome: "gotas/581.bmp"
+
+found blob 3 ... gravado com nome: "gotas/582.bmp"
+
+found blob 4 ... gravado com nome: "gotas/583.bmp"
+
+found blob 5 ... gravado com nome: "gotas/584.bmp"
+
+found blob 6 ... gravado com nome: "gotas/585.bmp"
+
+found blob 7 ... gravado com nome: "gotas/586.bmp"
+
+found blob 8 ... gravado com nome: "gotas/587.bmp"
+
+found blob 9 ... gravado com nome: "gotas/588.bmp"
+
+found blob 10 ... gravado com nome: "gotas/589.bmp"
+
+found blob 11 ... gravado com nome: "gotas/590.bmp"
+
+found blob 12 ... gravado com nome: "gotas/591.bmp"
+
+found blob 13 ... gravado com nome: "gotas/592.bmp"
+
+found blob 14 ... gravado com nome: "gotas/593.bmp"
+
+found blob 15 ... gravado com nome: "gotas/594.bmp"
+
+found blob 16 ... gravado com nome: "gotas/595.bmp"
+
+found blob 17 ... gravado com nome: "gotas/596.bmp"
+
+found blob 18 ... gravado com nome: "gotas/597.bmp"
+
+found blob 19 ... gravado com nome: "gotas/598.bmp"
+
+found blob 20 ... gravado com nome: "gotas/599.bmp"
+
+found blob 21 ... gravado com nome: "gotas/600.bmp"
+
+found blob 22 ... gravado com nome: "gotas/601.bmp"
+
+found blob 23 ... gravado com nome: "gotas/602.bmp"
+
+found blob 24 ... gravado com nome: "gotas/603.bmp"
+
+found blob 25 ... gravado com nome: "gotas/604.bmp"
+
+found blob 26 ... gravado com nome: "gotas/605.bmp"
+
+found blob 27 ... gravado com nome: "gotas/606.bmp"
+
+found blob 28 ... gravado com nome: "gotas/607.bmp"
+
+found blob 29 ... gravado com nome: "gotas/608.bmp"
+
+found blob 30 ... gravado com nome: "gotas/609.bmp"
+
+found blob 31 ... gravado com nome: "gotas/610.bmp"
+
+found blob 32 ... gravado com nome: "gotas/611.bmp"
+
+found blob 33 ... gravado com nome: "gotas/612.bmp"
+
+found blob 34 ... gravado com nome: "gotas/613.bmp"
+
+found blob 35 ... gravado com nome: "gotas/614.bmp"
+
+found blob 36 ... gravado com nome: "gotas/615.bmp"
+
+found blob 37 ... gravado com nome: "gotas/616.bmp"
+
+found blob 38 ... gravado com nome: "gotas/617.bmp"
+
+found blob 39 ... gravado com nome: "gotas/618.bmp"
+
+found blob 40 ... gravado com nome: "gotas/619.bmp"
+
+found blob 41 ... gravado com nome: "gotas/620.bmp"
+
+found blob 42 ... gravado com nome: "gotas/621.bmp"
+
+found blob 43 ... gravado com nome: "gotas/622.bmp"
+
+found blob 44 ... gravado com nome: "gotas/623.bmp"
+
+found blob 45 ... gravado com nome: "gotas/624.bmp"
+
+found blob 46 ... gravado com nome: "gotas/625.bmp"
+
+found blob 47 ... gravado com nome: "gotas/626.bmp"
+
+found blob 48 ... gravado com nome: "gotas/627.bmp"
+
+found blob 49 ... gravado com nome: "gotas/628.bmp"
+
+found blob 50 ... gravado com nome: "gotas/629.bmp"
+
+found blob 51 ... gravado com nome: "gotas/630.bmp"
+
+found blob 52 ... gravado com nome: "gotas/631.bmp"
+
+found blob 53 ... gravado com nome: "gotas/632.bmp"
+
+found blob 54 ... gravado com nome: "gotas/633.bmp"
+
+found blob 55 ... gravado com nome: "gotas/634.bmp"
+
+found blob 56 ... gravado com nome: "gotas/635.bmp"
+
+found blob 57 ... gravado com nome: "gotas/636.bmp"
+
+found blob 58 ... gravado com nome: "gotas/637.bmp"
+
+found blob 59 ... gravado com nome: "gotas/638.bmp"
+
+found blob 60 ... gravado com nome: "gotas/639.bmp"
+
+found blob 61 ... gravado com nome: "gotas/640.bmp"
+
+found blob 62 ... gravado com nome: "gotas/641.bmp"
+
+found blob 63 ... gravado com nome: "gotas/642.bmp"
+
+found blob 64 ... gravado com nome: "gotas/643.bmp"
+
+found blob 65 ... gravado com nome: "gotas/644.bmp"
+
+found blob 66 ... gravado com nome: "gotas/645.bmp"
+
+found blob 67 ... gravado com nome: "gotas/646.bmp"
+
+found blob 68 ... gravado com nome: "gotas/647.bmp"
+
+found blob 69 ... gravado com nome: "gotas/648.bmp"
+
+found blob 70 ... gravado com nome: "gotas/649.bmp"
+
+found blob 71 ... gravado com nome: "gotas/650.bmp"
+
+found blob 72 ... gravado com nome: "gotas/651.bmp"
+
+found blob 73 ... gravado com nome: "gotas/652.bmp"
+
+found blob 74 ... gravado com nome: "gotas/653.bmp"
+
+found blob 75 ... gravado com nome: "gotas/654.bmp"
+
+found blob 76 ... gravado com nome: "gotas/655.bmp"
+
+found blob 77 ... gravado com nome: "gotas/656.bmp"
+
+found blob 78 ... gravado com nome: "gotas/657.bmp"
+
+found blob 79 ... gravado com nome: "gotas/658.bmp"
+
+found blob 80 ... gravado com nome: "gotas/659.bmp"
+
+found blob 81 ... gravado com nome: "gotas/660.bmp"
+
+found blob 82 ... gravado com nome: "gotas/661.bmp"
+
+found blob 83 ... gravado com nome: "gotas/662.bmp"
+
+found blob 84 ... gravado com nome: "gotas/663.bmp"
+
+found blob 85 ... gravado com nome: "gotas/664.bmp"
+
+found blob 86 ... gravado com nome: "gotas/665.bmp"
+
+found blob 87 ... gravado com nome: "gotas/666.bmp"
+
+found blob 88 ... gravado com nome: "gotas/667.bmp"
+
+found blob 89 ... gravado com nome: "gotas/668.bmp"
+
+found blob 90 ... gravado com nome: "gotas/669.bmp"
+
+found blob 91 ... gravado com nome: "gotas/670.bmp"
+
+found blob 92 ... gravado com nome: "gotas/671.bmp"
+
+found blob 93 ... gravado com nome: "gotas/672.bmp"
+
+found blob 94 ... gravado com nome: "gotas/673.bmp"
+
+found blob 95 ... gravado com nome: "gotas/674.bmp"
+
+found blob 96 ... gravado com nome: "gotas/675.bmp"
+
+found blob 97 ... gravado com nome: "gotas/676.bmp"
+
+found blob 98 ... gravado com nome: "gotas/677.bmp"
+
+found blob 99 ... gravado com nome: "gotas/678.bmp"
+
+found blob 100 ... gravado com nome: "gotas/679.bmp"
+
+found blob 101 ... gravado com nome: "gotas/680.bmp"
+
+found blob 102 ... gravado com nome: "gotas/681.bmp"
+
+found blob 103 ... gravado com nome: "gotas/682.bmp"
+
+found blob 104 ... gravado com nome: "gotas/683.bmp"
+
+found blob 105 ... gravado com nome: "gotas/684.bmp"
+
+found blob 106 ... gravado com nome: "gotas/685.bmp"
+
+found blob 107 ... gravado com nome: "gotas/686.bmp"
+
+found blob 108 ... gravado com nome: "gotas/687.bmp"
+
+found blob 109 ... gravado com nome: "gotas/688.bmp"
+
+found blob 110 ... gravado com nome: "gotas/689.bmp"
+
+found blob 111 ... gravado com nome: "gotas/690.bmp"
+
+found blob 112 ... gravado com nome: "gotas/691.bmp"
+
+found blob 113 ... gravado com nome: "gotas/692.bmp"
+
+found blob 114 ... gravado com nome: "gotas/693.bmp"
+
+found blob 115 ... gravado com nome: "gotas/694.bmp"
+
+found blob 116 ... gravado com nome: "gotas/695.bmp"
+
+found blob 117 ... gravado com nome: "gotas/696.bmp"
+
+found blob 118 ... gravado com nome: "gotas/697.bmp"
+
+found blob 119 ... gravado com nome: "gotas/698.bmp"
+
+found blob 120 ... gravado com nome: "gotas/699.bmp"
+
+found blob 121 ... gravado com nome: "gotas/700.bmp"
+
+found blob 122 ... gravado com nome: "gotas/701.bmp"
+
+found blob 123 ... gravado com nome: "gotas/702.bmp"
+
+found blob 124 ... gravado com nome: "gotas/703.bmp"
+
+found blob 125 ... gravado com nome: "gotas/704.bmp"
+
+found blob 126 ... gravado com nome: "gotas/705.bmp"
+
+found blob 127 ... gravado com nome: "gotas/706.bmp"
+
+found blob 128 ... gravado com nome: "gotas/707.bmp"
+
+found blob 129 ... gravado com nome: "gotas/708.bmp"
+
+found blob 130 ... gravado com nome: "gotas/709.bmp"
+
+found blob 131 ... gravado com nome: "gotas/710.bmp"
+
+found blob 132 ... gravado com nome: "gotas/711.bmp"
+
+found blob 133 ... gravado com nome: "gotas/712.bmp"
+
+found blob 134 ... gravado com nome: "gotas/713.bmp"
+
+found blob 135 ... gravado com nome: "gotas/714.bmp"
+
+found blob 136 ... gravado com nome: "gotas/715.bmp"
+
+found blob 137 ... gravado com nome: "gotas/716.bmp"
+
+found blob 138 ... gravado com nome: "gotas/717.bmp"
+
+found blob 139 ... gravado com nome: "gotas/718.bmp"
+
+found blob 140 ... gravado com nome: "gotas/719.bmp"
+
+found blob 141 ... gravado com nome: "gotas/720.bmp"
+
+found blob 142 ... gravado com nome: "gotas/721.bmp"
+
+found blob 143 ... gravado com nome: "gotas/722.bmp"
+
+found blob 144 ... gravado com nome: "gotas/723.bmp"
+
+found blob 145 ... gravado com nome: "gotas/724.bmp"
+
+found blob 146 ... gravado com nome: "gotas/725.bmp"
+
+found blob 147 ... gravado com nome: "gotas/726.bmp"
+
+found blob 148 ... gravado com nome: "gotas/727.bmp"
+
+found blob 149 ... gravado com nome: "gotas/728.bmp"
+
+found blob 150 ... gravado com nome: "gotas/729.bmp"
+
+found blob 151 ... gravado com nome: "gotas/730.bmp"
+
+found blob 152 ... gravado com nome: "gotas/731.bmp"
+
+found blob 153 ... gravado com nome: "gotas/732.bmp"
+
+found blob 154 ... gravado com nome: "gotas/733.bmp"
+
+found blob 155 ... gravado com nome: "gotas/734.bmp"
+
+found blob 156 ... gravado com nome: "gotas/735.bmp"
+
+found blob 157 ... gravado com nome: "gotas/736.bmp"
+
+found blob 158 ... gravado com nome: "gotas/737.bmp"
+
+found blob 159 ... gravado com nome: "gotas/738.bmp"
+
+found blob 160 ... gravado com nome: "gotas/739.bmp"
+
+found blob 161 ... gravado com nome: "gotas/740.bmp"
+
+found blob 162 ... gravado com nome: "gotas/741.bmp"
+
+found blob 163 ... gravado com nome: "gotas/742.bmp"
+
+found blob 164 ... gravado com nome: "gotas/743.bmp"
+
+found blob 165 ... gravado com nome: "gotas/744.bmp"
+
+found blob 166 ... gravado com nome: "gotas/745.bmp"
+
+found blob 167 ... gravado com nome: "gotas/746.bmp"
+
+found blob 168 ... gravado com nome: "gotas/747.bmp"
+
+found blob 169 ... gravado com nome: "gotas/748.bmp"
+
+found blob 170 ... gravado com nome: "gotas/749.bmp"
+
+found blob 171 ... gravado com nome: "gotas/750.bmp"
+
+found blob 172 ... gravado com nome: "gotas/751.bmp"
+
+found blob 173 ... gravado com nome: "gotas/752.bmp"
+
+found blob 174 ... gravado com nome: "gotas/753.bmp"
+
+found blob 175 ... gravado com nome: "gotas/754.bmp"
+
+found blob 176 ... gravado com nome: "gotas/755.bmp"
+
+found blob 177 ... gravado com nome: "gotas/756.bmp"
+
+found blob 178 ... gravado com nome: "gotas/757.bmp"
+
+found blob 179 ... gravado com nome: "gotas/758.bmp"
+
+found blob 180 ... gravado com nome: "gotas/759.bmp"
+
+found blob 181 ... gravado com nome: "gotas/760.bmp"
+
+	Gotas encontradas: 181
+	Gotas ignoradas:   423
+ultima gota gravada: 760
+

@@ -1,0 +1,452 @@
+found blob 1 ... gravado com nome: "gotasNew/Terrestre1/1.bmp"
+
+found blob 2 ... gravado com nome: "gotasNew/Terrestre1/2.bmp"
+
+found blob 3 ... gravado com nome: "gotasNew/Terrestre1/3.bmp"
+
+found blob 4 ... gravado com nome: "gotasNew/Terrestre1/4.bmp"
+
+found blob 5 ... gravado com nome: "gotasNew/Terrestre1/5.bmp"
+
+found blob 6 ... gravado com nome: "gotasNew/Terrestre1/6.bmp"
+
+found blob 7 ... gravado com nome: "gotasNew/Terrestre1/7.bmp"
+
+found blob 8 ... gravado com nome: "gotasNew/Terrestre1/8.bmp"
+
+found blob 9 ... gravado com nome: "gotasNew/Terrestre1/9.bmp"
+
+found blob 10 ... gravado com nome: "gotasNew/Terrestre1/10.bmp"
+
+found blob 11 ... gravado com nome: "gotasNew/Terrestre1/11.bmp"
+
+found blob 12 ... gravado com nome: "gotasNew/Terrestre1/12.bmp"
+
+found blob 13 ... gravado com nome: "gotasNew/Terrestre1/13.bmp"
+
+found blob 14 ... gravado com nome: "gotasNew/Terrestre1/14.bmp"
+
+found blob 15 ... gravado com nome: "gotasNew/Terrestre1/15.bmp"
+
+found blob 16 ... gravado com nome: "gotasNew/Terrestre1/16.bmp"
+
+found blob 17 ... gravado com nome: "gotasNew/Terrestre1/17.bmp"
+
+found blob 18 ... gravado com nome: "gotasNew/Terrestre1/18.bmp"
+
+found blob 19 ... gravado com nome: "gotasNew/Terrestre1/19.bmp"
+
+found blob 20 ... gravado com nome: "gotasNew/Terrestre1/20.bmp"
+
+found blob 21 ... gravado com nome: "gotasNew/Terrestre1/21.bmp"
+
+found blob 22 ... gravado com nome: "gotasNew/Terrestre1/22.bmp"
+
+found blob 23 ... gravado com nome: "gotasNew/Terrestre1/23.bmp"
+
+found blob 24 ... gravado com nome: "gotasNew/Terrestre1/24.bmp"
+
+found blob 25 ... gravado com nome: "gotasNew/Terrestre1/25.bmp"
+
+found blob 26 ... gravado com nome: "gotasNew/Terrestre1/26.bmp"
+
+found blob 27 ... gravado com nome: "gotasNew/Terrestre1/27.bmp"
+
+found blob 28 ... gravado com nome: "gotasNew/Terrestre1/28.bmp"
+
+found blob 29 ... gravado com nome: "gotasNew/Terrestre1/29.bmp"
+
+found blob 30 ... gravado com nome: "gotasNew/Terrestre1/30.bmp"
+
+found blob 31 ... gravado com nome: "gotasNew/Terrestre1/31.bmp"
+
+found blob 32 ... gravado com nome: "gotasNew/Terrestre1/32.bmp"
+
+found blob 33 ... gravado com nome: "gotasNew/Terrestre1/33.bmp"
+
+found blob 34 ... gravado com nome: "gotasNew/Terrestre1/34.bmp"
+
+found blob 35 ... gravado com nome: "gotasNew/Terrestre1/35.bmp"
+
+found blob 36 ... gravado com nome: "gotasNew/Terrestre1/36.bmp"
+
+found blob 37 ... gravado com nome: "gotasNew/Terrestre1/37.bmp"
+
+found blob 38 ... gravado com nome: "gotasNew/Terrestre1/38.bmp"
+
+found blob 39 ... gravado com nome: "gotasNew/Terrestre1/39.bmp"
+
+found blob 40 ... gravado com nome: "gotasNew/Terrestre1/40.bmp"
+
+found blob 41 ... gravado com nome: "gotasNew/Terrestre1/41.bmp"
+
+found blob 42 ... gravado com nome: "gotasNew/Terrestre1/42.bmp"
+
+found blob 43 ... gravado com nome: "gotasNew/Terrestre1/43.bmp"
+
+found blob 44 ... gravado com nome: "gotasNew/Terrestre1/44.bmp"
+
+found blob 45 ... gravado com nome: "gotasNew/Terrestre1/45.bmp"
+
+found blob 46 ... gravado com nome: "gotasNew/Terrestre1/46.bmp"
+
+found blob 47 ... gravado com nome: "gotasNew/Terrestre1/47.bmp"
+
+found blob 48 ... gravado com nome: "gotasNew/Terrestre1/48.bmp"
+
+found blob 49 ... gravado com nome: "gotasNew/Terrestre1/49.bmp"
+
+found blob 50 ... gravado com nome: "gotasNew/Terrestre1/50.bmp"
+
+found blob 51 ... gravado com nome: "gotasNew/Terrestre1/51.bmp"
+
+found blob 52 ... gravado com nome: "gotasNew/Terrestre1/52.bmp"
+
+found blob 53 ... gravado com nome: "gotasNew/Terrestre1/53.bmp"
+
+found blob 54 ... gravado com nome: "gotasNew/Terrestre1/54.bmp"
+
+found blob 55 ... gravado com nome: "gotasNew/Terrestre1/55.bmp"
+
+found blob 56 ... gravado com nome: "gotasNew/Terrestre1/56.bmp"
+
+found blob 57 ... gravado com nome: "gotasNew/Terrestre1/57.bmp"
+
+found blob 58 ... gravado com nome: "gotasNew/Terrestre1/58.bmp"
+
+found blob 59 ... gravado com nome: "gotasNew/Terrestre1/59.bmp"
+
+found blob 60 ... gravado com nome: "gotasNew/Terrestre1/60.bmp"
+
+found blob 61 ... gravado com nome: "gotasNew/Terrestre1/61.bmp"
+
+found blob 62 ... gravado com nome: "gotasNew/Terrestre1/62.bmp"
+
+found blob 63 ... gravado com nome: "gotasNew/Terrestre1/63.bmp"
+
+found blob 64 ... gravado com nome: "gotasNew/Terrestre1/64.bmp"
+
+found blob 65 ... gravado com nome: "gotasNew/Terrestre1/65.bmp"
+
+found blob 66 ... gravado com nome: "gotasNew/Terrestre1/66.bmp"
+
+found blob 67 ... gravado com nome: "gotasNew/Terrestre1/67.bmp"
+
+found blob 68 ... gravado com nome: "gotasNew/Terrestre1/68.bmp"
+
+found blob 69 ... gravado com nome: "gotasNew/Terrestre1/69.bmp"
+
+found blob 70 ... gravado com nome: "gotasNew/Terrestre1/70.bmp"
+
+found blob 71 ... gravado com nome: "gotasNew/Terrestre1/71.bmp"
+
+found blob 72 ... gravado com nome: "gotasNew/Terrestre1/72.bmp"
+
+found blob 73 ... gravado com nome: "gotasNew/Terrestre1/73.bmp"
+
+found blob 74 ... gravado com nome: "gotasNew/Terrestre1/74.bmp"
+
+found blob 75 ... gravado com nome: "gotasNew/Terrestre1/75.bmp"
+
+found blob 76 ... gravado com nome: "gotasNew/Terrestre1/76.bmp"
+
+found blob 77 ... gravado com nome: "gotasNew/Terrestre1/77.bmp"
+
+found blob 78 ... gravado com nome: "gotasNew/Terrestre1/78.bmp"
+
+found blob 79 ... gravado com nome: "gotasNew/Terrestre1/79.bmp"
+
+found blob 80 ... gravado com nome: "gotasNew/Terrestre1/80.bmp"
+
+found blob 81 ... gravado com nome: "gotasNew/Terrestre1/81.bmp"
+
+found blob 82 ... gravado com nome: "gotasNew/Terrestre1/82.bmp"
+
+found blob 83 ... gravado com nome: "gotasNew/Terrestre1/83.bmp"
+
+found blob 84 ... gravado com nome: "gotasNew/Terrestre1/84.bmp"
+
+found blob 85 ... gravado com nome: "gotasNew/Terrestre1/85.bmp"
+
+found blob 86 ... gravado com nome: "gotasNew/Terrestre1/86.bmp"
+
+found blob 87 ... gravado com nome: "gotasNew/Terrestre1/87.bmp"
+
+found blob 88 ... gravado com nome: "gotasNew/Terrestre1/88.bmp"
+
+found blob 89 ... gravado com nome: "gotasNew/Terrestre1/89.bmp"
+
+found blob 90 ... gravado com nome: "gotasNew/Terrestre1/90.bmp"
+
+found blob 91 ... gravado com nome: "gotasNew/Terrestre1/91.bmp"
+
+found blob 92 ... gravado com nome: "gotasNew/Terrestre1/92.bmp"
+
+found blob 93 ... gravado com nome: "gotasNew/Terrestre1/93.bmp"
+
+found blob 94 ... gravado com nome: "gotasNew/Terrestre1/94.bmp"
+
+found blob 95 ... gravado com nome: "gotasNew/Terrestre1/95.bmp"
+
+found blob 96 ... gravado com nome: "gotasNew/Terrestre1/96.bmp"
+
+found blob 97 ... gravado com nome: "gotasNew/Terrestre1/97.bmp"
+
+found blob 98 ... gravado com nome: "gotasNew/Terrestre1/98.bmp"
+
+found blob 99 ... gravado com nome: "gotasNew/Terrestre1/99.bmp"
+
+found blob 100 ... gravado com nome: "gotasNew/Terrestre1/100.bmp"
+
+found blob 101 ... gravado com nome: "gotasNew/Terrestre1/101.bmp"
+
+found blob 102 ... gravado com nome: "gotasNew/Terrestre1/102.bmp"
+
+found blob 103 ... gravado com nome: "gotasNew/Terrestre1/103.bmp"
+
+found blob 104 ... gravado com nome: "gotasNew/Terrestre1/104.bmp"
+
+found blob 105 ... gravado com nome: "gotasNew/Terrestre1/105.bmp"
+
+found blob 106 ... gravado com nome: "gotasNew/Terrestre1/106.bmp"
+
+found blob 107 ... gravado com nome: "gotasNew/Terrestre1/107.bmp"
+
+found blob 108 ... gravado com nome: "gotasNew/Terrestre1/108.bmp"
+
+found blob 109 ... gravado com nome: "gotasNew/Terrestre1/109.bmp"
+
+found blob 110 ... gravado com nome: "gotasNew/Terrestre1/110.bmp"
+
+found blob 111 ... gravado com nome: "gotasNew/Terrestre1/111.bmp"
+
+found blob 112 ... gravado com nome: "gotasNew/Terrestre1/112.bmp"
+
+found blob 113 ... gravado com nome: "gotasNew/Terrestre1/113.bmp"
+
+found blob 114 ... gravado com nome: "gotasNew/Terrestre1/114.bmp"
+
+found blob 115 ... gravado com nome: "gotasNew/Terrestre1/115.bmp"
+
+found blob 116 ... gravado com nome: "gotasNew/Terrestre1/116.bmp"
+
+found blob 117 ... gravado com nome: "gotasNew/Terrestre1/117.bmp"
+
+found blob 118 ... gravado com nome: "gotasNew/Terrestre1/118.bmp"
+
+found blob 119 ... gravado com nome: "gotasNew/Terrestre1/119.bmp"
+
+found blob 120 ... gravado com nome: "gotasNew/Terrestre1/120.bmp"
+
+found blob 121 ... gravado com nome: "gotasNew/Terrestre1/121.bmp"
+
+found blob 122 ... gravado com nome: "gotasNew/Terrestre1/122.bmp"
+
+found blob 123 ... gravado com nome: "gotasNew/Terrestre1/123.bmp"
+
+found blob 124 ... gravado com nome: "gotasNew/Terrestre1/124.bmp"
+
+found blob 125 ... gravado com nome: "gotasNew/Terrestre1/125.bmp"
+
+found blob 126 ... gravado com nome: "gotasNew/Terrestre1/126.bmp"
+
+found blob 127 ... gravado com nome: "gotasNew/Terrestre1/127.bmp"
+
+found blob 128 ... gravado com nome: "gotasNew/Terrestre1/128.bmp"
+
+found blob 129 ... gravado com nome: "gotasNew/Terrestre1/129.bmp"
+
+found blob 130 ... gravado com nome: "gotasNew/Terrestre1/130.bmp"
+
+found blob 131 ... gravado com nome: "gotasNew/Terrestre1/131.bmp"
+
+found blob 132 ... gravado com nome: "gotasNew/Terrestre1/132.bmp"
+
+found blob 133 ... gravado com nome: "gotasNew/Terrestre1/133.bmp"
+
+found blob 134 ... gravado com nome: "gotasNew/Terrestre1/134.bmp"
+
+found blob 135 ... gravado com nome: "gotasNew/Terrestre1/135.bmp"
+
+found blob 136 ... gravado com nome: "gotasNew/Terrestre1/136.bmp"
+
+found blob 137 ... gravado com nome: "gotasNew/Terrestre1/137.bmp"
+
+found blob 138 ... gravado com nome: "gotasNew/Terrestre1/138.bmp"
+
+found blob 139 ... gravado com nome: "gotasNew/Terrestre1/139.bmp"
+
+found blob 140 ... gravado com nome: "gotasNew/Terrestre1/140.bmp"
+
+found blob 141 ... gravado com nome: "gotasNew/Terrestre1/141.bmp"
+
+found blob 142 ... gravado com nome: "gotasNew/Terrestre1/142.bmp"
+
+found blob 143 ... gravado com nome: "gotasNew/Terrestre1/143.bmp"
+
+found blob 144 ... gravado com nome: "gotasNew/Terrestre1/144.bmp"
+
+found blob 145 ... gravado com nome: "gotasNew/Terrestre1/145.bmp"
+
+found blob 146 ... gravado com nome: "gotasNew/Terrestre1/146.bmp"
+
+found blob 147 ... gravado com nome: "gotasNew/Terrestre1/147.bmp"
+
+found blob 148 ... gravado com nome: "gotasNew/Terrestre1/148.bmp"
+
+found blob 149 ... gravado com nome: "gotasNew/Terrestre1/149.bmp"
+
+found blob 150 ... gravado com nome: "gotasNew/Terrestre1/150.bmp"
+
+found blob 151 ... gravado com nome: "gotasNew/Terrestre1/151.bmp"
+
+found blob 152 ... gravado com nome: "gotasNew/Terrestre1/152.bmp"
+
+found blob 153 ... gravado com nome: "gotasNew/Terrestre1/153.bmp"
+
+found blob 154 ... gravado com nome: "gotasNew/Terrestre1/154.bmp"
+
+found blob 155 ... gravado com nome: "gotasNew/Terrestre1/155.bmp"
+
+found blob 156 ... gravado com nome: "gotasNew/Terrestre1/156.bmp"
+
+found blob 157 ... gravado com nome: "gotasNew/Terrestre1/157.bmp"
+
+found blob 158 ... gravado com nome: "gotasNew/Terrestre1/158.bmp"
+
+found blob 159 ... gravado com nome: "gotasNew/Terrestre1/159.bmp"
+
+found blob 160 ... gravado com nome: "gotasNew/Terrestre1/160.bmp"
+
+found blob 161 ... gravado com nome: "gotasNew/Terrestre1/161.bmp"
+
+found blob 162 ... gravado com nome: "gotasNew/Terrestre1/162.bmp"
+
+found blob 163 ... gravado com nome: "gotasNew/Terrestre1/163.bmp"
+
+found blob 164 ... gravado com nome: "gotasNew/Terrestre1/164.bmp"
+
+found blob 165 ... gravado com nome: "gotasNew/Terrestre1/165.bmp"
+
+found blob 166 ... gravado com nome: "gotasNew/Terrestre1/166.bmp"
+
+found blob 167 ... gravado com nome: "gotasNew/Terrestre1/167.bmp"
+
+found blob 168 ... gravado com nome: "gotasNew/Terrestre1/168.bmp"
+
+found blob 169 ... gravado com nome: "gotasNew/Terrestre1/169.bmp"
+
+found blob 170 ... gravado com nome: "gotasNew/Terrestre1/170.bmp"
+
+found blob 171 ... gravado com nome: "gotasNew/Terrestre1/171.bmp"
+
+found blob 172 ... gravado com nome: "gotasNew/Terrestre1/172.bmp"
+
+found blob 173 ... gravado com nome: "gotasNew/Terrestre1/173.bmp"
+
+found blob 174 ... gravado com nome: "gotasNew/Terrestre1/174.bmp"
+
+found blob 175 ... gravado com nome: "gotasNew/Terrestre1/175.bmp"
+
+found blob 176 ... gravado com nome: "gotasNew/Terrestre1/176.bmp"
+
+found blob 177 ... gravado com nome: "gotasNew/Terrestre1/177.bmp"
+
+found blob 178 ... gravado com nome: "gotasNew/Terrestre1/178.bmp"
+
+found blob 179 ... gravado com nome: "gotasNew/Terrestre1/179.bmp"
+
+found blob 180 ... gravado com nome: "gotasNew/Terrestre1/180.bmp"
+
+found blob 181 ... gravado com nome: "gotasNew/Terrestre1/181.bmp"
+
+found blob 182 ... gravado com nome: "gotasNew/Terrestre1/182.bmp"
+
+found blob 183 ... gravado com nome: "gotasNew/Terrestre1/183.bmp"
+
+found blob 184 ... gravado com nome: "gotasNew/Terrestre1/184.bmp"
+
+found blob 185 ... gravado com nome: "gotasNew/Terrestre1/185.bmp"
+
+found blob 186 ... gravado com nome: "gotasNew/Terrestre1/186.bmp"
+
+found blob 187 ... gravado com nome: "gotasNew/Terrestre1/187.bmp"
+
+found blob 188 ... gravado com nome: "gotasNew/Terrestre1/188.bmp"
+
+found blob 189 ... gravado com nome: "gotasNew/Terrestre1/189.bmp"
+
+found blob 190 ... gravado com nome: "gotasNew/Terrestre1/190.bmp"
+
+found blob 191 ... gravado com nome: "gotasNew/Terrestre1/191.bmp"
+
+found blob 192 ... gravado com nome: "gotasNew/Terrestre1/192.bmp"
+
+found blob 193 ... gravado com nome: "gotasNew/Terrestre1/193.bmp"
+
+found blob 194 ... gravado com nome: "gotasNew/Terrestre1/194.bmp"
+
+found blob 195 ... gravado com nome: "gotasNew/Terrestre1/195.bmp"
+
+found blob 196 ... gravado com nome: "gotasNew/Terrestre1/196.bmp"
+
+found blob 197 ... gravado com nome: "gotasNew/Terrestre1/197.bmp"
+
+found blob 198 ... gravado com nome: "gotasNew/Terrestre1/198.bmp"
+
+found blob 199 ... gravado com nome: "gotasNew/Terrestre1/199.bmp"
+
+found blob 200 ... gravado com nome: "gotasNew/Terrestre1/200.bmp"
+
+found blob 201 ... gravado com nome: "gotasNew/Terrestre1/201.bmp"
+
+found blob 202 ... gravado com nome: "gotasNew/Terrestre1/202.bmp"
+
+found blob 203 ... gravado com nome: "gotasNew/Terrestre1/203.bmp"
+
+found blob 204 ... gravado com nome: "gotasNew/Terrestre1/204.bmp"
+
+found blob 205 ... gravado com nome: "gotasNew/Terrestre1/205.bmp"
+
+found blob 206 ... gravado com nome: "gotasNew/Terrestre1/206.bmp"
+
+found blob 207 ... gravado com nome: "gotasNew/Terrestre1/207.bmp"
+
+found blob 208 ... gravado com nome: "gotasNew/Terrestre1/208.bmp"
+
+found blob 209 ... gravado com nome: "gotasNew/Terrestre1/209.bmp"
+
+found blob 210 ... gravado com nome: "gotasNew/Terrestre1/210.bmp"
+
+found blob 211 ... gravado com nome: "gotasNew/Terrestre1/211.bmp"
+
+found blob 212 ... gravado com nome: "gotasNew/Terrestre1/212.bmp"
+
+found blob 213 ... gravado com nome: "gotasNew/Terrestre1/213.bmp"
+
+found blob 214 ... gravado com nome: "gotasNew/Terrestre1/214.bmp"
+
+found blob 215 ... gravado com nome: "gotasNew/Terrestre1/215.bmp"
+
+found blob 216 ... gravado com nome: "gotasNew/Terrestre1/216.bmp"
+
+found blob 217 ... gravado com nome: "gotasNew/Terrestre1/217.bmp"
+
+found blob 218 ... gravado com nome: "gotasNew/Terrestre1/218.bmp"
+
+found blob 219 ... gravado com nome: "gotasNew/Terrestre1/219.bmp"
+
+found blob 220 ... gravado com nome: "gotasNew/Terrestre1/220.bmp"
+
+found blob 221 ... gravado com nome: "gotasNew/Terrestre1/221.bmp"
+
+found blob 222 ... gravado com nome: "gotasNew/Terrestre1/222.bmp"
+
+found blob 223 ... gravado com nome: "gotasNew/Terrestre1/223.bmp"
+
+found blob 224 ... gravado com nome: "gotasNew/Terrestre1/224.bmp"
+
+	Gotas encontradas: 224
+	Gotas ignoradas:   551
+ultima gota gravada: 224
+

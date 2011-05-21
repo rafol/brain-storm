@@ -1,0 +1,17 @@
+Como usar esse código:
+
+a 3 partes principais, encontrar as manchas, extrair características e treinar a RN. cada uma das seguintes pastas tem programas pra realizar as seguintes funções:
+
+ conta-gotas - encontra as manchas em um cartão. tem um script em rubi para rodar pra vários cartões.
+ 
+ extract - extrai as características de uma mancha. tem um script pra rodar com mais manchas. duas versões (compiles e sem piles)
+
+ tspgen - um programinha em rubi pra fazer a contagem manual. em algum lugar tem um sript em rubi pra juntar essas informações com as do extract
+
+ brian - treina e valida a RN com a imagem das manchas e uma saida. o storm faz só a validação.
+
+ brian2 - mesma coisa que o brian, mas com 20 saídas
+
+ otherbrian - treina e valida a RN sem a imagem das manchas, pra variar entre 1 e 2 saídas tem que mexer no código. o storm faz só a validação.
+
+ stuff - contem os arquivos de treinamento e redes neuris geradas no processo. também tem uns scrits velhos.

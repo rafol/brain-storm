@@ -1,0 +1,52 @@
+found blob 1 ... gravado com nome: "gotas/2240.bmp"
+
+found blob 2 ... gravado com nome: "gotas/2241.bmp"
+
+found blob 3 ... gravado com nome: "gotas/2242.bmp"
+
+found blob 4 ... gravado com nome: "gotas/2243.bmp"
+
+found blob 5 ... gravado com nome: "gotas/2244.bmp"
+
+found blob 6 ... gravado com nome: "gotas/2245.bmp"
+
+found blob 7 ... gravado com nome: "gotas/2246.bmp"
+
+found blob 8 ... gravado com nome: "gotas/2247.bmp"
+
+found blob 9 ... gravado com nome: "gotas/2248.bmp"
+
+found blob 10 ... gravado com nome: "gotas/2249.bmp"
+
+found blob 11 ... gravado com nome: "gotas/2250.bmp"
+
+found blob 12 ... gravado com nome: "gotas/2251.bmp"
+
+found blob 13 ... gravado com nome: "gotas/2252.bmp"
+
+found blob 14 ... gravado com nome: "gotas/2253.bmp"
+
+found blob 15 ... gravado com nome: "gotas/2254.bmp"
+
+found blob 16 ... gravado com nome: "gotas/2255.bmp"
+
+found blob 17 ... gravado com nome: "gotas/2256.bmp"
+
+found blob 18 ... gravado com nome: "gotas/2257.bmp"
+
+found blob 19 ... gravado com nome: "gotas/2258.bmp"
+
+found blob 20 ... gravado com nome: "gotas/2259.bmp"
+
+found blob 21 ... gravado com nome: "gotas/2260.bmp"
+
+found blob 22 ... gravado com nome: "gotas/2261.bmp"
+
+found blob 23 ... gravado com nome: "gotas/2262.bmp"
+
+found blob 24 ... gravado com nome: "gotas/2263.bmp"
+
+	Gotas encontradas: 24
+	Gotas ignoradas:   120
+ultima gota gravada: 2263
+

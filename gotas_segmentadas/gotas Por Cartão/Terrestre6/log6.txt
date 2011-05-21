@@ -1,0 +1,20 @@
+found blob 1 ... gravado com nome: "gotasNew/Terrestre6/981.bmp"
+
+found blob 2 ... gravado com nome: "gotasNew/Terrestre6/982.bmp"
+
+found blob 3 ... gravado com nome: "gotasNew/Terrestre6/983.bmp"
+
+found blob 4 ... gravado com nome: "gotasNew/Terrestre6/984.bmp"
+
+found blob 5 ... gravado com nome: "gotasNew/Terrestre6/985.bmp"
+
+found blob 6 ... gravado com nome: "gotasNew/Terrestre6/986.bmp"
+
+found blob 7 ... gravado com nome: "gotasNew/Terrestre6/987.bmp"
+
+found blob 8 ... gravado com nome: "gotasNew/Terrestre6/988.bmp"
+
+	Gotas encontradas: 8
+	Gotas ignoradas:   50
+ultima gota gravada: 988
+

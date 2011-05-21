@@ -1,0 +1,42 @@
+Loading data...train set...validation set...OK!
+Creating artificial neural network with the following configuration:
+	input layer size  = 19226
+	hidden layer size = 15
+	output layer size = 1
+	number of layers  = 3
+	time between reports  = 0
+	learning rate     = 0.3
+	momentum          = 0.2
+	Erro de validacao = 0.5
+Creating NN...OK!
+training network...
+Done!...Saving to file: net/15n70e.dat
+Validando...OK!
+	Correctly Classified Instances:  304 | 30.1587
+	Incorrectly Classified Instances: 704 | 69.8413
+	erro medio:  (-64.65 / 1008) = -0.0641369
+	erro medio das erradas: (-43.3 / 704) = -0.0615057
+	media do desvio quadrado:  (4.78766 / 1008) = 0.00474967
+	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o	p	q	r	s	t	u	<-- classified as
+	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   a = 0
+	777	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   b = 0.05
+	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   c = 0.1
+	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   d = 0.15
+	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   e = 0.2
+	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   f = 0.25
+	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   g = 0.3
+	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   h = 0.35
+	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   i = 0.4
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   j = 0.45
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   k = 0.5
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   l = 0.55
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   m = 0.6
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   n = 0.65
+	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   o = 0.7
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   p = 0.75
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   q = 0.8
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   r = 0.85
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   s = 0.9
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   t = 0.95
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0 |   u = 1
+

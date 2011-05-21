@@ -1,0 +1,26 @@
+found blob 1 ... gravado com nome: "gotas/991.bmp"
+
+found blob 2 ... gravado com nome: "gotas/992.bmp"
+
+found blob 3 ... gravado com nome: "gotas/993.bmp"
+
+found blob 4 ... gravado com nome: "gotas/994.bmp"
+
+found blob 5 ... gravado com nome: "gotas/995.bmp"
+
+found blob 6 ... gravado com nome: "gotas/996.bmp"
+
+found blob 7 ... gravado com nome: "gotas/997.bmp"
+
+found blob 8 ... gravado com nome: "gotas/998.bmp"
+
+found blob 9 ... gravado com nome: "gotas/999.bmp"
+
+found blob 10 ... gravado com nome: "gotas/1000.bmp"
+
+found blob 11 ... gravado com nome: "gotas/1001.bmp"
+
+	Gotas encontradas: 11
+	Gotas ignoradas:   86
+ultima gota gravada: 1001
+

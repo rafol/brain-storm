@@ -1,0 +1,9 @@
+system "mkdir gotasNew"
+offset = 0
+(1..29).each do |i| 
+	prefix = "gotasNew/Terrestre"+i.to_s+"/"
+	system "mkdir " + prefix
+	system "./contaGotas Terrestre29/Terrestre" + i.to_s + ".bmp " + prefix + "mask" + i.to_s + ".bmp " + prefix + " " + offset.to_s + " .bmp 10 17 > " + prefix + "log" + i.to_s + ".txt"
+	$stdout.write "next offset: "
+	offset = gets.chomp.to_i
+end

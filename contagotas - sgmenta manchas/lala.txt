@@ -1,0 +1,103 @@
+	//---------------------------Applying Mask----------------------------------
+	/*cerr << "Aplicando mascara para segmentacao...";
+	RGBFilter::Pointer merge = new RGBFilter();
+	merge->SetInput(imagem);
+	merge->SetMask(mask->GetOutput());
+	//merge->Update();
+	cerr << "OK!" << endl;*/
+
+void floodFill(MaskType::Pointer image, IndexType seedIndex, unsigned char target, unsigned char repleace);
+
+
+/*
+void floodFill(MaskType::Pointer image, IndexType seedIndex, unsigned char target, unsigned char repleace){
+	if( image->GetPixel(seedIndex) == target ){
+		image->SetPixel(seedIndex, repleace);
+		if(seedIndex[0] < filledIndex[0]){
+			filledSize[0]++;
+			filledIndex[0] = seedIndex[0];
+		}
+		else{
+			if(seedIndex[0] > (int) (filledIndex[0] + filledSize[0]) ){
+				filledSize[0]++;
+			}		
+			else{
+				if(seedIndex[1] < filledIndex[1]){
+					filledSize[1]++;
+					filledIndex[1] = seedIndex[1];
+				} 
+				else{		
+					if(seedIndex[1] > (int) (filledIndex[1] + filledSize[1]) ){
+						filledSize[1]++;
+					}
+				}
+			}
+		}
+		seedIndex[0] +=1;
+		floodFill(image, seedIndex, target, repleace);
+		seedIndex[0] -=2;
+		floodFill(image, seedIndex, target, repleace);
+		seedIndex[0] +=1;
+		seedIndex[1] +=1;
+		floodFill(image, seedIndex, target, repleace);
+		seedIndex[1] -=2;
+		floodFill(image, seedIndex, target, repleace);
+	}
+}
+
+*/
+
+// find one blob
+	/*ImageType::Pointer blob = ImageType::New();
+	
+	MaskType::SizeType maskSize = mask->GetLargestPossibleRegion().GetSize();	
+	MaskType::IndexType maskIndex = mask->GetLargestPossibleRegion().GetIndex();
+	
+	for( maskIndex[0] = mask->GetLargestPossibleRegion().GetIndex()[0] ; maskIndex[0]< (int) maskSize[0] ; maskIndex[0]++ ){
+		for( maskIndex[1] = mask->GetLargestPossibleRegion().GetIndex()[1] ; maskIndex[1]< (int) maskSize[1] ; maskIndex[1]++ ){
+			//maskIndex[0]=117;
+			//maskIndex[1]=136;
+			if( mask->GetPixel(maskIndex) == BRANCO ){
+				filledSize[0] = 1;
+				filledSize[1] = 1;
+				filledIndex[0] = maskIndex[0];
+				filledIndex[1] = maskIndex[1];
+				floodFill(mask, maskIndex, BRANCO, CINZACLR); // tbm tme que determinar a regiao
+				cerr<< "fillindex: " << filledIndex <<endl;
+				cerr<< "fillsize:  " << filledSize <<endl;
+				// gota encontrada e marcada, regiao delimitada
+				// blob image allocation			
+				ImageType::IndexType blobIndex;
+				blobIndex.Fill(0);
+				ImageType::RegionType blobRegion;
+				blobRegion.SetIndex(blobIndex);
+				blobRegion.SetSize(filledSize);
+				blob->SetLargestPossibleRegion(blobRegion);
+				blob->SetBufferedRegion(blobRegion);
+				blob->SetRequestedRegion(blobRegion);
+				blob->Allocate();
+				// blob crop (elimina potenciais residuos externos a gota)
+				IndexType sourceIndex = filledIndex;
+				IndexType destnyIndex = blobIndex;
+				
+				for( sourceIndex[0] = filledIndex[0], destnyIndex[0] = blobIndex[0] ; sourceIndex[0]< (int) (filledSize[0] + filledIndex[0]) ; sourceIndex[0]++, destnyIndex[0]++  ){
+					for( sourceIndex[1] = filledIndex[1], destnyIndex[1] = blobIndex[1] ; sourceIndex[1]< (int) (filledSize[1] + filledIndex[1]) ; sourceIndex[1]++, destnyIndex[1]++  ){
+						if( mask->GetPixel(sourceIndex) == CINZACLR ){
+							blob->SetPixel(destnyIndex, imagem->GetPixel(sourceIndex));
+							mask->SetPixel(sourceIndex, CINZAESQ);
+						}
+						else{
+						//	PixelType blackOne;
+							blob->GetPixel(destnyIndex).SetRed(PRETO);
+							blob->GetPixel(destnyIndex).SetGreen(PRETO);
+							blob->GetPixel(destnyIndex).SetBlue(PRETO);
+						}
+					}
+				}
+				
+				goto there;
+			}
+			
+		}
+	}
+	there:*/

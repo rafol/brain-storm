@@ -1,0 +1,122 @@
+#include <iostream>
+#include <climits>
+#include <string>
+#include <cmath>
+#include <doublefann.h>
+#include <cstdlib>
+
+using namespace std;
+
+#define hit 0
+#define miss 1
+#define diff 2
+#define diffMiss 3
+#define INPUT 19227
+#define VNUM 508
+
+struct fann_train_data* train;
+double valid[VNUM][INPUT];
+
+int main(int argc, char ** argv){ 
+	if(argc < 4){
+		cerr << "insuficient parameters." << endl;
+		cerr << "\tSyntax: " << argv[0] << " <max_epochs> <epochs_per_net> <time between reports> <desired error>" << endl;
+		exit(1);
+	}
+	char *ptr;
+	//network variables
+	const unsigned int num_input = INPUT;
+	const unsigned int num_output = 1;
+	const unsigned int num_layers = 3;
+	const unsigned int num_neurons_hidden = 10;
+	const unsigned int max_epochs = atoi(argv[1]);
+	const unsigned int epochsPerNet = atoi(argv[2]);
+	const unsigned int epochs_between_reports = atoi(argv[3]);
+	const double desired_error = (const double) strtod(argv[4], &ptr);
+	// data sets variables
+	//--------------Carregando conjuntos de treinamento de validacao--------------
+	cout << "Loading data...";
+	train = fann_read_train_from_file("dataPixTrain.txt");
+	cout << "train set...";
+	FILE* inputFile = fopen("dataPixValid.txt", "r");
+	int validateNum = VNUM;
+	fann_type *output;
+	double expected[validateNum];
+	double validadeSet[4] = {0};
+	int bestEpoch = 0, bestResult = -1;
+	for( int k=0 ; k<validateNum ; k++ ){
+		for(int j=0 ; j<num_input ; j++){
+			cin >> valid[k][j];
+			//fscanf(inputFile, "%lf", &valid[k][j]);
+			cerr << valid[k][j] << " ";			
+		}
+		cin >> expected[k];
+		//fscanf(inputFile, "%lf", &expected[k]);
+		cerr << endl << expected[k] << endl;
+	}
+	cout << "validation set...";
+	cout << "OK!" << endl;
+	//------------------------criando rede neural--------------------------------
+	cout << "Creating artificial neural network with the following configuration:" << endl;
+	cout << "\tinput layer size  = " << num_input << endl;
+	cout << "\thidden layer size = " << num_neurons_hidden << endl;
+	cout << "\toutput layer size = " << num_output << endl;
+	cout << "\tnumber of layers  = " << num_layers << endl;
+	cout << "\ttime between reports  = " << epochs_between_reports << endl;
+	cout << "Creating NN...";
+	struct fann *ann = fann_create_standard(num_layers, num_input, num_neurons_hidden, num_output);
+	fann_set_learning_momentum(ann, 0.8);
+	fann_set_learning_rate(ann, 0.5);
+	fann_set_training_algorithm(ann, FANN_TRAIN_BATCH);
+	fann_set_activation_function_hidden(ann, FANN_SIGMOID_SYMMETRIC);
+	fann_set_activation_function_output(ann, FANN_SIGMOID_SYMMETRIC);
+	cout << "OK!" << endl;
+	//-----------------------Treinando rede neural------------------------------
+	cout << "training network..." << endl;
+	system("mkdir net/");
+	for( int i=epochsPerNet ; i<=max_epochs ; i+=epochsPerNet ){
+		cerr << "Treinando ate " << i << " epocas" << endl;
+		fann_train_on_data(ann, train, epochsPerNet, epochs_between_reports, desired_error);
+		cout << "Done!...Saving to file: ";
+		char outputFile[100];
+		sprintf(outputFile, "net/redeNeural%depocas.dat", i);
+		fann_save(ann, outputFile);
+		cout << outputFile << endl;
+		//-------------------------Validando rede--------------------------------
+		cout << "Validando...";
+		validadeSet[hit] = 0;
+		validadeSet[miss] = 0;
+		validadeSet[diff] = 0;
+		validadeSet[diffMiss] = 0;
+		for( int k=0 ; k<validateNum ; k++ ){
+			output = fann_run(ann, valid[k]);
+			double xxx = *output;
+			for(int i=0 ; i<313 ; i++)
+				xxx *= 10;
+			cout <<expected[k] << " " << *output << " "<< expected[k]*20.0 << " " << xxx*20 <<endl;	
+			if( expected[k]*20-0.3 < xxx*20 && xxx*20 < expected[k]*20+0.3 ){
+			//if( expected[k]*20.0 == xxx*20 ){
+				validadeSet[hit]++;
+			}
+			else{
+				validadeSet[miss]++;
+				validadeSet[diffMiss]+=(*output)-expected[k];
+			}
+			validadeSet[diff]+=(*output)-expected[k];
+		}
+		cout << "OK!" <<endl;
+		cout << "\thit:  " << validadeSet[hit] << " | " << validadeSet[hit]/validateNum << endl;
+		cout << "\tmiss: " << validadeSet[miss] << " | " << validadeSet[miss]/validateNum << endl;
+		cout << "\terro medio:  " << validadeSet[diff] << " | " << validadeSet[diff]/validateNum << endl;
+		cout << "\terro medio das erradas: " << validadeSet[diffMiss] << " | " << validadeSet[diffMiss]/validadeSet[miss] << endl;
+		if(validadeSet[hit]>bestResult){
+			bestEpoch = i;
+			bestResult = validadeSet[hit];
+		}
+		cout << endl;
+	}
+	cout << "bestEpoch: " << bestEpoch << endl;
+	cout << "bestResult: " << bestResult << endl;
+	fann_destroy(ann);
+	return 0;
+}

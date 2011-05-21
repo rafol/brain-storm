@@ -1,0 +1,10 @@
+found blob 1 ... gravado com nome: "gotas/2237.bmp"
+
+found blob 2 ... gravado com nome: "gotas/2238.bmp"
+
+found blob 3 ... gravado com nome: "gotas/2239.bmp"
+
+	Gotas encontradas: 3
+	Gotas ignoradas:   871
+ultima gota gravada: 2239
+
